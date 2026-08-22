@@ -4,7 +4,7 @@
 
 - [Overview](#overview)
   - [Screenshot](#screenshot)
-
+  - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
@@ -20,6 +20,10 @@ This is my solution to Frontend Mentor Blog preview card.
 ### Screenshot
 
 ![Blog Preview Card](./screenshot.png)
+
+### Links
+- Solution URL: [GitHub Repository](https://github.com/piyush-kaushik24/blog-preview-card)
+- Live Site URL: [Live Site](https://piyush-kaushik24.github.io/blog-preview-card/)
 
 ## My process
 
